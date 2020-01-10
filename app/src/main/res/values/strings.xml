@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AndroidLatihan3</string>
+
+    <!--data untuk listview-->
+    <string-array name="data_list">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>India</item>
+        <item>Hungaria</item>
+        <item>Islandia</item>
+        <item>Kroasia</item>
+        <item>Filipina</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string name="bandung">Kota Bandung (Aksara Sunda Baku:) merupakan kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut. Kota ini terletak 140 km sebelah tenggara Jakarta, dan merupakan kota terbesar di wilayah Pulau Jawa bagian selatan. Sedangkan wilayah Bandung Raya (Wilayah Metropolitan Bandung) merupakan metropolitan terbesar ketiga di Indonesia setelah Jabodetabek dan Gerbangkertosusila. </string>
+    <string name="jakarta">Daerah Khusus Ibukota Jakarta (DKI Jakarta) adalah ibu kota negara dan kota terbesar di Indonesia. Jakarta merupakan satu-satunya kota di Indonesia yang memiliki status setingkat provinsi. Jakarta terletak di pesisir bagian barat laut Pulau Jawa. Dahulu pernah dikenal dengan beberapa nama di antaranya Sunda Kelapa, Jayakarta, dan Batavia. Di dunia internasional Jakarta juga mempunyai julukan J-Town,[8] atau lebih populer lagi The Big Durian karena dianggap kota yang sebanding New York City (Big Apple) di Indonesia.[9]
+        Jakarta memiliki luas sekitar 661,52 km² (lautan: 6.977,5 km²), dengan penduduk berjumlah 10.374.235 jiwa (2017).[3] Wilayah metropolitan Jakarta (Jabodetabek) yang berpenduduk sekitar 28 juta jiwa,[7] merupakan metropolitan terbesar di Asia Tenggara atau urutan kedua di dunia. </string>
+    <string name="surabaya">Kota Surabaya (Carakan: Jawa: Kutha Surabaya, Madura: Kottah Sorbhâjâh) adalah ibu kota Provinsi Jawa Timur, Indonesia, sekaligus kota metropolitan terbesar di provinsi tersebut. Surabaya merupakan kota terbesar kedua di Indonesia setelah Jakarta. Kota ini terletak 796 km sebelah timur Jakarta, atau 415 km sebelah barat laut Denpasar, Bali. Surabaya terletak di pantai utara Pulau Jawa bagian timur dan berhadapan dengan Selat Madura serta Laut Jawa. </string>
+    <string name="depok">Kota Depok adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota ini terletak tepat di selatan Jakarta, yakni antara Jakarta dan Bogor. Dahulu, Depok adalah kota kecamatan dalam wilayah Kabupaten Bogor, yang kemudian mendapat status kota administratif pada tahun 1982. Sejak 20 April 1999, Depok ditetapkan menjadi kotamadya (sekarang:kota) yang terpisah dari Kabupaten Bogor. Kota Depok terdiri atas 11 kecamatan dan 63 kelurahan. </string>
+    <string name="bogor">Kota Bogor (Sunda) adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota ini terletak 59 km sebelah selatan Jakarta, dan wilayahnya berada di tengah-tengah wilayah Kabupaten Bogor.</string>
+
+    <string name="MadMax"></string>
+    <string name="InsideOut"></string>
+    <string name="StarWars"></string>
+    <string name="ShauntheSheep"></string>
+    <string name="TheMartian"></string>
+</resources>
